@@ -1,4 +1,5 @@
 # Python e pip
+## Introdução
 ### Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos. É uma das linguagens mais populares do mundo, usada em uma variedade de aplicações, desde desenvolvimento web e científico até machine learning e inteligência artificial. O Python é uma linguagem simples e fácil de aprender, mas é capaz de lidar com tarefas complexas, graças à sua vasta biblioteca de módulos e pacotes.
 
 O pip é um sistema de gerenciamento de pacotes para o Python. É usado para instalar, atualizar e desinstalar pacotes Python e suas dependências. O pip é uma ferramenta indispensável para quem trabalha com Python, pois simplifica muito o processo de gerenciamento de dependências e instalação de pacotes.
