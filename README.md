@@ -1,4 +1,4 @@
-[⬅ Voltar](https://memorise-codigos.github.io)
+[⬅Voltar](https://memorise-codigos.github.io)
 # Python e pip
 ## Introdução
 ### Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos. É uma das linguagens mais populares do mundo, usada em uma variedade de aplicações, desde desenvolvimento web e científico até machine learning e inteligência artificial. O Python é uma linguagem simples e fácil de aprender, mas é capaz de lidar com tarefas complexas, graças à sua vasta biblioteca de módulos e pacotes.
