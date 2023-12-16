@@ -61,3 +61,6 @@ Onde "requirements.txt" é o nome do arquivo de requisitos.
 
 Depois de ativado, qualquer pacote Python instalado usando o pip será instalado dentro do ambiente virtual, em vez do sistema global Python.
 ### Em resumo, o Python e o pip são ferramentas poderosas para o desenvolvimento de aplicativos Python. O Python é uma linguagem simples e fácil de aprender, mas é capaz de lidar com tarefas complexas, graças à sua vasta biblioteca de módulos e pacotes. O pip simplifica muito o processo de gerenciamento de dependências e instalação de pacotes, permitindo que você instale, atualize e desinstale pacotes Python com facilidade. Além disso, o pip possui recursos úteis, como a capacidade de criar ambientes virtuais, que permitem que você crie ambientes de desenvolvimento isolados para diferentes projetos.
+
+
+             By Memorise o código
